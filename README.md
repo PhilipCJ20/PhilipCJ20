@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipCJ20
 - 👀 I’m interested in Electronics, Analog IC Design, Digital IC Design, FPGA, ASIC, Machine Learning, Deep Learning and Neuromorphic Engineering
-- 🌱 I’m currently learning Australia
+- 🌱 I’m currently learning Neuromorpic computing and efficient hardware solutions
 - 💞️ I’m looking to collaborate on the above mentioned interests
 - 📫 How to reach me : philipcjose007@gmail.com
 
